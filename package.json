@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/rarkins/renovate-heroku#readme",
   "dependencies": {
-    "renovate": "13.127.2"
+    "renovate": "13.132.0"
   }
 }
